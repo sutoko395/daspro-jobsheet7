@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * InnerPenjualanTiketBioskop23
+ * PenjualanTiketBioskop23
  */
 public class PenjualanTiketBioskop23 {
 
